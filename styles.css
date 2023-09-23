@@ -3,9 +3,9 @@ h1,h2,p {
 }
 
 body {
-  background-color: burlywood;
+  /*background-color: burlywood;*/
 }
-/* Para seleccionar un div, usamos el "#" y aun lado escribimos el nombre del id */
+/* */
 #menu {
   width: 300px;
 }
