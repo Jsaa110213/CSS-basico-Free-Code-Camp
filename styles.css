@@ -7,7 +7,9 @@ body {
 }
 /* */
 #menu {
-  /* En este caso cambiamos los 300px por el 80%, es decir el 80% dela ancho del cuerpo  */
   width: 80%;
   background-color: burlywood;
+  /* Para centrar el #menu horizontalmente, añadimos el atributo margin, para los lados left y right, pero con el valor "auto" para que se ajuste por si solo */
+  margin-left: auto;
+  margin-right: auto;
 }
