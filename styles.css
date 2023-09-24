@@ -7,6 +7,7 @@ body {
 }
 /* */
 #menu {
-  width: 300px;
+  /* En este caso cambiamos los 300px por el 80%, es decir el 80% dela ancho del cuerpo  */
+  width: 80%;
   background-color: burlywood;
 }
