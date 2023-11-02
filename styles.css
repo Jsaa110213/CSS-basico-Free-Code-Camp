@@ -3,7 +3,7 @@ h1,h2,p {
 }
 
 body {
-  /*Se borró el valor anterior y se cambio por background-image, añadiendo una url de una imagen siendo asi, el fondo que representa la pagina, en este caso una imagen de grano de cafe :) */
+  /* Imagen de grano de cafe como fondo :) */
   background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
 }
 .menu {
