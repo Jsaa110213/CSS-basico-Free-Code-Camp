@@ -21,3 +21,9 @@ body {
 .price {
   text-align: right;
 }
+
+/* En este caso podemos seleccionar todos los elementos <p> que estan anidados en la clase ".item", en vez de hacerlo por cada uno. */
+.item p {
+  display: inline-block;
+}
+
