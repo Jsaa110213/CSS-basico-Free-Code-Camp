@@ -16,12 +16,12 @@ body {
 
 .flavor {
   text-align: left;
-  width: 50%
+  width: 75%
 }
 
 .price {
   text-align: right;
-  width: 50%
+  width: 25%
 }
 
 /* En este caso podemos seleccionar todos los elementos <p> que estan anidados en la clase ".item", en vez de hacerlo por cada uno. */
