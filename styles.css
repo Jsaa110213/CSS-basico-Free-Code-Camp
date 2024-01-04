@@ -14,8 +14,8 @@ body {
   /* Para centrar el #menu horizontalmente, añadimos el atributo margin, para los lados left y right, pero con el valor "auto" para que se ajuste por si solo */
   margin-left: auto;
   margin-right: auto;
-  padding: 20px; /* Con el padding agregamos espacio entre el borde del menu *(contenedor) y contenido del menu (textos y precios) */
-  
+  padding: 20px; /* Con el padding agregamos espacio entre el borde del menu (contenedor) y contenido del menu (textos y precios) */
+  max-width: 500px; /*Con esta propiedad añadimos un ancho máximo para que los límites del menu no se expandan mas cuando la pantalla se grande */
 }
 
 .flavor,
