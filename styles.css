@@ -11,6 +11,14 @@ body {
   font-family: sans-serif ;
 }
 
+h1{
+  /* Con esta propiedad se modifica el tamaño de la tipografia */
+  font-size: 40px;
+}
+h2 {
+  font-size: 30px;
+}
+
 .menu {
   width: 80%;
   background-color: burlywood;
@@ -29,6 +37,7 @@ h1, h2 {
 
 .established {
   /* Con esta propiedad añadimos un estilo distinto a la tipografia */
+  /* El paso 61 era añadir la clase "established", asi que me lo salto. */
   font-style: italic;
 }
 
