@@ -27,6 +27,11 @@ h1, h2 {
   font-family: Impact, serif; 
 }
 
+.established {
+  /* Con esta propiedad añadimos un estilo distinto a la tipografia */
+  font-style: italic;
+}
+
 .flavor,
 .dessert {
   text-align: left;
