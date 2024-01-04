@@ -23,7 +23,8 @@ body {
 
 h1, h2 {
   /* Cambiamos la tipografia de los titulos y subst. para un mejor diseño */
-  font-family: Impact; 
+  /* Se añaden fuentes de respaldo por si la "fuente principal" no esta disponible separados por una coma*/
+  font-family: Impact, serif; 
 }
 
 .flavor,
