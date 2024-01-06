@@ -9,6 +9,7 @@ body {
   background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
    /* Con esto definimos una familia tipografia común en navegadores, para toda la página */
   font-family: sans-serif ;
+  padding: 20px;
 }
 
 h1{
