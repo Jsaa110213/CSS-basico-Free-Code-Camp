@@ -29,6 +29,11 @@ h2 {
   max-width: 500px; /*Con esta propiedad añadimos un ancho máximo para que los límites del menu no se expandan mas cuando la pantalla se grande */
 }
 
+hr {
+  /* "height" es alto y "width" es anchura*/
+  height: 3px;
+}
+
 h1, h2 {
   /* Cambiamos la tipografia de los titulos y subst. para un mejor diseño */
   /* Se añaden fuentes de respaldo por si la "fuente principal" no esta disponible separados por una coma*/
