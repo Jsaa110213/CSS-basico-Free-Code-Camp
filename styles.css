@@ -33,6 +33,7 @@ hr {
   /* "height" es alto y "width" es anchura*/
   height: 3px;
   background-color: brown;
+  border-color: brown;
 }
 
 h1, h2 {
