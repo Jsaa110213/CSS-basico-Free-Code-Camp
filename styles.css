@@ -62,5 +62,8 @@ h1, h2 {
 
 /* En este caso podemos seleccionar todos los elementos <p> que estan anidados en la clase ".item", en vez de hacerlo por cada uno. */
 .item p {
+    /* En este caso, la propiedad "display: inline-block" hacemos que las etiquetas se acomoden en la misma linea, respetan el espacio ya sea que tengan por defecto o tras ser programada. */
   display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
