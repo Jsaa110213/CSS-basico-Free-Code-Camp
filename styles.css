@@ -90,6 +90,12 @@ a:visited {
   color: gray;
 }
 
+/* Cambia el color cuando el cursor pasa por encima del link. */
 a:hover {
   color: brown;
+}
+
+/* Cambia el color cuando se oprime el link. */
+a:active{ 
+  color: white;
 }
