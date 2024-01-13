@@ -15,6 +15,9 @@ body {
 h1{
   /* Con esta propiedad se modifica el tamaño de la tipografia */
   font-size: 40px;
+  /* Por defecto el h1 tiene un margen superior predeterminado, por lo que ahora mismo se elimino ese margen superior */
+  margin-top: 0;
+
 }
 h2 {
   font-size: 30px;
