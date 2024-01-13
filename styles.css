@@ -84,3 +84,8 @@ footer {
 a {
   color: black;
 }
+
+/* Esto es un pseudo-selector, y permite cambiar los valor de un que ya ha sido visitado, en este caso su color */
+a:visited {
+  color: gray;
+}
