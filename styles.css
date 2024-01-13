@@ -85,7 +85,11 @@ a {
   color: black;
 }
 
-/* Esto es un pseudo-selector, y permite cambiar los valor de un que ya ha sido visitado, en este caso su color */
+/* Esto es un pseudo-selector, y permite cambiar los valor de un elemento aun que ya ha sido visitado, en este caso su color */
 a:visited {
   color: gray;
+}
+
+a:hover {
+  color: brown;
 }
