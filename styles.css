@@ -87,7 +87,7 @@ a {
 
 /* Esto es un pseudo-selector, y permite cambiar los valor de un elemento aun que ya ha sido visitado, en este caso su color */
 a:visited {
-  color: gray;
+  color: black;
 }
 
 /* Cambia el color cuando el cursor pasa por encima del link. */
@@ -97,5 +97,5 @@ a:hover {
 
 /* Cambia el color cuando se oprime el link. */
 a:active{ 
-  color: white;
+  color: brown;
 }
