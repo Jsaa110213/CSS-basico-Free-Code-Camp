@@ -17,7 +17,7 @@ h1{
   font-size: 40px;
   /* Por defecto el h1 tiene un margen superior predeterminado, por lo que ahora mismo se elimino ese margen superior */
   margin-top: 0;
-
+  margin-bottom: 15px; /* Ahora lo mismo pero con la parte inferior pero con respecto a la clase established */
 }
 h2 {
   font-size: 30px;
