@@ -42,9 +42,11 @@ hr {
 }
 
 img {
+  /* display: block; es cuando el elemento ocupa todo el espacio que tiene horizontalmente y con inline es hasta donde acabe el propio elemento */
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: -25px;
 }
 
 .bottom-line {
