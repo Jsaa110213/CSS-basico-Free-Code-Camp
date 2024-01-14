@@ -41,6 +41,12 @@ hr {
 
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .bottom-line {
   /* Con la propiedad "margin-top", modificamos el margen superior de la linea que separa contenido (<hr>), es decir, agregamos espacio en la parte superior de la linea */
   margin-top: 25px;
